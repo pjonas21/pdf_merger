@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+build
+dist
+venv
+app.spec
+generated-8d1a11f0603fbd65f2b1421190eb355fdf5e1ef6f124c0da147c6db0e11fe4d2.ico
+pdf_app.spec
