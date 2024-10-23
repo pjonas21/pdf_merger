@@ -28,6 +28,7 @@ def merge_pdf(folder_path: str, file_name: str, page: ft.Page):
 
     page.open(page.controls[-1])
     page.controls[0].controls[0].value = ""
+    page.controls[1].value = ""
     page.update()
     return
     
